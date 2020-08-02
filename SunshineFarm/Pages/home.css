@@ -1,0 +1,62 @@
+@charset "utf-8";
+.body {
+	min-height: 0vmax;
+	margin-left: 0px;
+	background-size: cover;
+	background-position: 0% 0%;
+	background-attachment: fixed;
+	background-image: url(../Pictures/Background.png);
+}
+.nav1 {
+	margin-left: 740px;
+}
+.logo1 {
+}
+.greet1 {
+	margin-left: 430px;
+}
+.walk1 {
+	padding-left: 0px;
+	margin-left: 165px;
+}
+.menu1 {
+	margin-left: 250px;
+
+}
+.map1 {
+	margin-left: 300px;
+
+}
+.bunny {
+	margin-left: 500px;
+}
+.animals {
+	margin-left: 100px;
+
+}
+.llama {
+	margin-left: 150px;
+
+}
+.duck {
+	margin-left: 150px;
+}
+.horse {
+	margin-left: 250px;
+}
+.sheep {
+	margin-left: 250px;
+
+}
+.cow {
+	margin-left: 250px;
+}
+.animal1 {
+	margin-left: 250px;
+}
+.contact1 {
+	margin-left: 700px;
+}
+.attratc {
+	margin-left: 300px;
+}
